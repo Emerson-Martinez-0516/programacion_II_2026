@@ -16,9 +16,12 @@
   <li>El calculo de la mayoría de edad</li>
 </ul>
 
-
 <h5>Instrucciones para ejecutar el proyecto</h5>
 Se debe inicializar la compilación del proyecto presionando el botón con forma trinangular en la parte superior del mismo, para después en la consola ingresar los datos que solicita el sistema, los cuales son mencionados anteriormente, al finalizar el ingreso de cada uno de los datos se presiona la tecla enter hasta obtener el resultado. 
+
+<h5>Resultado Final / Evidencia</h5>
+
+![](https://github.com/Emerson-Martinez-0516/programacion_II_2026/blob/c3afb7de6998978328c46efda91023849f7c0617/evidencias/ejecucion.png)
 
 <h5>Emerson Omar Martínez Porras</h5>
 <h5>9941-23-764</h5>
